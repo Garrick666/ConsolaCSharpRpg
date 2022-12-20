@@ -1,0 +1,9 @@
+{
+	"GUID": "QUERTY",
+	"Titulo" : "Prueba Consola", 
+	"Descripcion" : "Juego en consola.",
+	"Exp" : 250,
+	"Dinero": 200,
+	"NvlMax" : 1,
+	"NvlMin" : 1
+}

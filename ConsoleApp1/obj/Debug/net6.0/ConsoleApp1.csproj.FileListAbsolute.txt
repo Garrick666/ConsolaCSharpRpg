@@ -1,0 +1,17 @@
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\PROYECTOS UNITY\Mini RPG Dic 2022\RpgConsolaBasico\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
